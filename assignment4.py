@@ -73,7 +73,7 @@ while position > -1:
         ## if user chose to not move
         print(f"You have not moved, You are still in the {House[position]} \n")
     elif move == "exit":
-        print("You are now exit the house, Goodbye")
+        print("You have now left the house, Goodbye")
         break
     
     
